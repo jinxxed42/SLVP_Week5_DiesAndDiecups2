@@ -21,8 +21,5 @@
         {
             return _value;
         }
-
     }
-
-
 }
